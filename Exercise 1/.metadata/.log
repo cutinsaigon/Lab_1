@@ -1,0 +1,82 @@
+!SESSION 2023-09-21 17:01:06.604 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-21 17:01:11.636
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-21 17:01:11.686
+!MESSAGE Log4j initialized with config file E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-21 17:01:15.888
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-21 17:03:01.070
+!MESSAGE Indexed 'Ex1' (19 sources, 78 headers) in 3.48 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2023-09-21 22:06:03.657 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-21 22:06:07.658
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-21 22:06:07.713
+!MESSAGE Log4j initialized with config file E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-21 22:06:13.027
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2023-09-21 22:13:41.024
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: File: E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1\Ex1\Debug\Ex1.elfdo not exists
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:56)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:84)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:914)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$15(StackAnalyzerView.java:1256)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-21 22:14:35.524
+!MESSAGE Indexed 'Ex 1' (19 sources, 78 headers) in 1.96 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2023-09-21 22:29:57.103 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-21 22:30:01.417
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-21 22:30:01.463
+!MESSAGE Log4j initialized with config file E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-21 22:30:06.355
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-09-22 08:10:38.139 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-22 08:10:47.630
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-22 08:10:47.692
+!MESSAGE Log4j initialized with config file E:\Semester 231\Microcontroller-Microprocessor\PracticeLab\Lab 1\Exercise 1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-22 08:10:54.842
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-22 08:11:07.275
+!MESSAGE Indexed 'Ex1' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-22 08:15:45.841
+!MESSAGE Indexed 'Ex1' (19 sources, 78 headers) in 2.16 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
