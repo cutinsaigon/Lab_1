@@ -1,0 +1,10 @@
+22:42:36 **** Build of configuration Debug for project Ex3_4 ****
+make -j16 all 
+arm-none-eabi-size   Ex3_4.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5828	     20	   1572	   7420	   1cfc	Ex3_4.elf
+Finished building: default.size.stdout
+ 
+
+22:42:37 Build Finished. 0 errors, 0 warnings. (took 583ms)
+
