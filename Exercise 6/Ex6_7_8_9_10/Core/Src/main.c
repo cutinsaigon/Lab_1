@@ -130,7 +130,7 @@ int main(void)
 
 	  if(hour >= 12) hour = 0;
 
-	  setNumberOnClock(hour);		//display hour
+	  setNumberOnClock(hour);	//display hour
 	  setNumberOnClock(minute/5);	//display minute
 	  setNumberOnClock(second/5);	//display second
 
